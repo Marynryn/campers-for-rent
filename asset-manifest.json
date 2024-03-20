@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/campers-for-rent/static/css/main.e62a1653.css",
+    "main.js": "/campers-for-rent/static/js/main.52ef9ab6.js",
+    "static/js/453.ed3810f9.chunk.js": "/campers-for-rent/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/campers-for-rent/index.html",
+    "main.e62a1653.css.map": "/campers-for-rent/static/css/main.e62a1653.css.map",
+    "main.52ef9ab6.js.map": "/campers-for-rent/static/js/main.52ef9ab6.js.map",
+    "453.ed3810f9.chunk.js.map": "/campers-for-rent/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62a1653.css",
+    "static/js/main.52ef9ab6.js"
+  ]
+}
