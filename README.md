@@ -1,1 +1,0 @@
-# campers-for-rent
